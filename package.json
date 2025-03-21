@@ -22,7 +22,7 @@
     "@types/node": "20.12.7",
     "@typescript-eslint/eslint-plugin": "^6.2.1",
     "@typescript-eslint/parser": "^6.2.1",
-    "aws-cdk": "^2.177.0",
+    "aws-cdk": "^2.178.2",
     "cdk-nag": "2.27.170",
     "esbuild": "^0.25.0",
     "eslint": "^8.35.0",
