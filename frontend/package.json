@@ -40,7 +40,7 @@
     "react-test-renderer": "^18.2.0",
     "stream-browserify": "^3.0.0",
     "typescript": "^4.9.5",
-    "webpack": "^5.88.2"
+    "webpack": "^5.105.0"
   },
   "dependencies": {
     "@aws-northstar/ui": "^1.1.7",
