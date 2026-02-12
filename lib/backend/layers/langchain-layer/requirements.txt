@@ -1,6 +1,6 @@
 langchain==0.3.13
 numpy==1.26.4
 pgvector==0.2.5
-pg8000==1.30.5
+pg8000==1.31.5
 boto3==1.36.5
 opensearch-py==2.8.0
